@@ -17,3 +17,5 @@ Free licence on data.<br>
 - Seaborn<br>
 - Imblearn<br>
 - Sklearn<br>
+
+Note: for more information you can consult the data source at: https://www.kaggle.com/datasets/sanskar457/fraud-transaction-detection
