@@ -1,6 +1,6 @@
 # Fraud Transaction Detector
 ## (code file: Fraud Transaction Detector - Imbalancing technique.ipynb)
-### Description of the process of creating a horse winner race predictor based on the Kentucky derby winners data.<br>
+### Description of the process of creating a Fraud transaction detector based on transactions dataset highly imbalanced.<br>
 Code in **Python 3**.<br>
 Notebook format.<br>
 **Author:** Jose Alberto Alonso Gonzalez <br>
